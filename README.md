@@ -1,3 +1,4 @@
+![logo](https://github.com/adithyasriharshith/adithyasriharshith/blob/main/BGI.png)
 <h1 align="center">Hi 👋, I'm Adithya Sri Harshith</h1>
 <h3 align="center">A passionate AiML & Frontend Developer from India</h3>
 
